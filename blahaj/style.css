@@ -18,7 +18,7 @@
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 
@@ -37,16 +37,16 @@
     padding: 24px;
     align-items: left;
     justify-content: left;
-    font-size: 50px;
+    font-size: 40px;
 }
 .corpo-titulo2{
     padding: 24px;
     align-items: left;
     justify-content: left;
-    font-size: 45px;
+    font-size: 35px;
 }
 .corpo-texto{
-    font-size: 30px;
+    font-size: 20px;
 }
 .corpo-imagem{
     width:50%;
@@ -65,7 +65,7 @@
 }
 .corpo-titulo-3{
     padding: 24px;
-    font-size: 50px;
+    font-size: 40px;
 }
 .corpo-4{
     width: 35%;
@@ -79,13 +79,13 @@
 }
 
 .corpo-texto2{
-    font-size: 30px;
+    font-size: 20px;
 }
 .corpo-texto3{
-    font-size: 30px;
+    font-size: 20px;
 }
 .corpo-texto4{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .exemplo_1{
